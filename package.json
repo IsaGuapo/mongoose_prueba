@@ -1,0 +1,21 @@
+{
+  "name": "mongoose_prueba",
+  "version": "1.0.0",
+  "description": "Prueba de funciones mongoose",
+  "main": "prueba.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node prueba.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaGuapo/mongoose_prueba.git"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaGuapo/mongoose_prueba/issues"
+  },
+  "homepage": "https://github.com/IsaGuapo/mongoose_prueba#readme"
+}
